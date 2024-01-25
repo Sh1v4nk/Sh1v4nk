@@ -1,11 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hello, I'm Shivank.
 
-###
-
 - I’m a passionate self-propelled learner diving into the world of coding as a beginner.
 - I’m currently learning **JavaScript.**
 
-## Familiar Languages
+## Languages and Frameworks
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
@@ -13,8 +11,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
 </div>
-
-###
 
 ## Get in Touch
 
@@ -39,8 +35,6 @@
   </a>
 </div>
 
-###
- 
 # GitHub Stats
 
 <div align="center">
@@ -48,5 +42,3 @@
   <img src="https://streak-stats.demolab.com?user=Sh1v4nk&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sh1v4nk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="167" alt="languages graph"  />
 </div>
-
-###

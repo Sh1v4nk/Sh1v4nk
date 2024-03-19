@@ -3,7 +3,7 @@
 - I’m a passionate self-propelled learner diving into the world of coding as a beginner.
 - I’m currently learning **ReactJs.**
 
-## Languages & Tools
+## 💻 Languages & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
@@ -39,7 +39,7 @@
   </a>
 </div>
 
-# GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sh1v4nk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="159" alt="stats graph" /> <br>

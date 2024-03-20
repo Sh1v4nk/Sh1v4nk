@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="30" alt="npm logo"  />
 </div>
 
-## Get in Touch
+## 🌐 Get in Touch
 
 <div align="center">
   <a href="mailto:shivankpandey113@gmail.com" target="_blank">

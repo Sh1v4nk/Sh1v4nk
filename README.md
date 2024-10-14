@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hello, I'm Shivank.
 
 - I’m a passionate self-propelled learner diving into the world of coding as a beginner.
-- I’m currently learning **ReactJs.**
+- I’m currently learning **Backend.**
 
 ## 💻 Languages & Tools
 
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="25" alt="mongodb logo"  />
-  <img src="https://img.shields.io/badge/Express.JS-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  /> 
+  <img src="https://img.shields.io/badge/Express.JS-000000?logo=express&logoColor=white&style=for-the-badge" height="25" alt="express logo"  />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
   <img src="https://img.shields.io/badge/C-394aab?logo=c&logoColor=black&style=for-the-badge" height="25" alt="c logo"  />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />

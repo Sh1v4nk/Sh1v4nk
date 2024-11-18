@@ -1,6 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hello, I'm Shivank.
 
-- I’m a passionate self-propelled learner diving into the world of coding as a beginner.
 - I’m currently learning **Backend.**
 
 ## 💻 Languages & Tools

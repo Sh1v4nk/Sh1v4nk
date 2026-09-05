@@ -1,5 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34px"> Hello, I'm Shivank.
 
+- Currently building [Typestrix](https://typestrix.com) - a modern typing platform
 
 ## 💻 Languages & Tools
 
